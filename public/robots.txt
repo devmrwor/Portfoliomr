@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: mike-portfolio-devmrwor.vercel.app
