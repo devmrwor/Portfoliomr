@@ -140,7 +140,7 @@ export const ContactUs = () => {
                                         </FormGroup>
                                         <div>
                                             <Button
-                                                block
+                                                // block
                                                 className="btn-round"
                                                 color="default"
                                                 size="lg"

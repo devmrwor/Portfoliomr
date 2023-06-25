@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
     title: "Hi 🖐all, I'm Mike",
     description:
         "I'm highly skilled and motivated Full Stack React Developer with 7 years of experience in software and web development, seeking a challenging position in a dynamic organization to contribute my expertise and grow professionally.",
-    resumeLink: '/mike cv.pdf',
+    resumeLink: 'https://drive.google.com/file/d/1PCKPbjDXnQL9xw9z8dYuv7fKCC9_wdia/view?usp=sharing',
 };
 
 export const openSource = {
